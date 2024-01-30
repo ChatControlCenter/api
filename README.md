@@ -2,7 +2,7 @@
 
 ## How to start with Linux
 - Clone this repository
-`git clone https://github.com/Squirrel-Network/api_nebula`
+`git clone https://github.com/ChatControlCenter/api.git`
 
 - Creating Virtual Environments
 `python3 -m venv env`
