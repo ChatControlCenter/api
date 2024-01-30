@@ -1,0 +1,14 @@
+fastapi==0.100.0
+uvicorn[standard]==0.23.1
+jsonschema==4.18.4
+pre-commit==3.3.3
+pydantic==2.0.3
+pydantic-settings==2.0.2
+PyJWT==2.8.0
+python-dotenv==1.0.0
+requests==2.31.0
+expiringdict==1.2.2
+jinja2==3.1.2
+tortoise-orm[asyncmy]==0.19.3
+python-multipart==0.0.6
+python-telegram-bot==20.4
