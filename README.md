@@ -1,4 +1,4 @@
-# NEBULA API
+# CHATCONTROLCENTER API
 
 ## How to start with Linux
 - Clone this repository
@@ -13,8 +13,8 @@
 - Install requirements
 `pip install -r requirements.txt`
 
-- `uvicorn main:app`
+- `uvicorn main:app --port 5000`
 
 ## API documentation
 
-- https://api.nebula.squirrel-network.online/
+- https://api.chatcontrolcenter.it
